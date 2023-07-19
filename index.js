@@ -38,7 +38,7 @@ function createMovieCard(movie) {
         <div class="column">
             <div class="card">
                 <a class="card-media" href="./img-01.jpeg">
-                    <img src="${imagePath}" alt="${original_title}" width="100%" />
+                    <img src="${imagePath}" alt="${original_title}" width="100%" fsdfsfsdfsdf/>
                 </a>
                 <div class="card-content">
                     <div class="card-header">
